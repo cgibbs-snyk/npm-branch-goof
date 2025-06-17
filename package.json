@@ -1,0 +1,16 @@
+{
+  "name": "snyk-demo-main",
+  "version": "1.0.0",
+  "description": "Baseline vulnerabilities for Snyk PR check demo - MAIN branch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lodash": "4.17.11",
+    "minimist": "1.2.5"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
