@@ -1,7 +1,7 @@
 {
-  "name": "snyk-demo-dev",
+  "name": "snyk-demo-feature",
   "version": "1.0.0",
-  "description": "Additional vulnerabilities in DEV branch for Snyk PR check demo",
+  "description": "New vulnerabilities introduced in FEATURE branch for Snyk PR check demo",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,9 @@
     "lodash": "4.17.11",
     "minimist": "1.2.5",
     "set-value": "2.0.0",
-    "request": "2.88.0"
+    "request": "2.88.0",
+    "tar": "4.4.1",
+    "hoek": "5.0.3"
   },
   "keywords": [],
   "author": "",
